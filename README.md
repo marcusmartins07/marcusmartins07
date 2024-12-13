@@ -1,6 +1,7 @@
 Olá, sou Marcus Martins
 
 - 🔭 Trabalho como assistente de suporte
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando **Vue**
 - 💬 Pergunte-me sobre **Django, Python**
 - 📫 contacte-me no email: **marcusmartins1789@gmail.com**
