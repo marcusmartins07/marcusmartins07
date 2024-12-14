@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-4780FD?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcus-martins-2834b7246/)](https://www.linkedin.com/in/marcus-martins-2834b7246/)
 [![Gmail Badge](https://img.shields.io/badge/-marcusmartins1789@gmail.com-4780FD?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcusmartins1789@gmail.com)](marcusmartins1789@gmail.com)
 
-- 🔭 Trabalho como assistente de suporte
+- 🔭 Trabalho como assistente de suporte a sistemas
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando **Vue**
 - 💬 Pergunte-me sobre **Django, Python**
